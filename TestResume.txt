@@ -1,0 +1,47 @@
+James Craig
+Columbus, OH  |  614.260.2231  |  james.edward.craig@gmail.com  |  linkedin.com/in/james-edward-craig/
+
+Audacious and hard-working software developer with years of experience in Sales and Business Development.
+Excited to <verb> my drive, dedication, and attention to detail in a new direction as a professional programmer.
+
+Technical Skills
+
+ASP.NET Web API, C#/.NET, SQL, HTML, CSS, JavaScript, Vue.js, ADO.NET, Table Design, E/R diagrams, Unit Testing,
+Integration Testing, Unix, Git, Visual Studio
+
+Technical Experience
+
+Capstone Project - description of capstone project. <verb> scope, functionality, and specific uses of tech
+skills listed above. Detail any personal achievements or special contributions.
+
+Side Project - description of side project. Describe scope, functionality, and specific uses of tech skills
+listed above. Detail any personal achievements or special contributions.
+
+Side Project - description of side project. Describe scope, functionality, and specific uses of tech skills
+listed above. Detail any personal achievements or special contributions.
+
+Education
+
+Tech Elevator - Columbus, OH 	Jan 2023 – Apr 2023
+Currently <verb>ing an intensive 14-week  full stack coding bootcamp in C#/.NETwith 800+ hours of development education and application, learning how to create dynamic web-based software systems.
+
+Grove City College - Grove City, OH	Sep 2002 – May 2006
+Received Bachelor of Science in Business Management with Minor in Global Business and Communication
+
+Professional Experience
+
+Nifco America Corporation	Sep 2007 – Feb 2019
+Sales and Business Development Manager
+<verb>ed and <verb>ed a team of 12 focused on Honda, Nissan, and Subaru business, achieving record group sales of over $180M per year
+<verb>ed and <verb>ed specialized market strategy, and designed updated marketing and training materials shared across multiple group companies
+Developed annual business plans incorporating top-level and individual goals, focusing on key account retention and growth as well as new market exploration
+
+Sales Supervisor
+Supervised Nissan Sales group, implementing and executing plans for business growth resulting in an increase of $25M per year
+Organized major technical show, driving new sales opportunities with interactive R&D displays
+Coordinated with international teams, synthesizing and standardizing efforts and practices across North America, Europe, and Asia
+Helped establish new sales office in Mexico, and successfully transitioned major ongoing projects
+
+Account Manager
+Nurtured strong, lasting relationships with key customers, understanding their challenges and providing custom engineered solutions
+Took charge of struggling Nissan account, growing sales from less than $1M to over $15M per year

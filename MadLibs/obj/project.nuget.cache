@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p7HsAyLbCpVtJvnYKiIn5DV/e8iXad5fhEAfxi6xRYdrD6uT8+jAubWsdUa27pM5tqHHDKii71t15tTnLlx94w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\JamesSideProjects\\MadLibs\\MadLibs\\MadLibs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
